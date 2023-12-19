@@ -2,3 +2,6 @@ To commit -->
 git add filename 
 git commit -m "my message"
 git push
+
+To pull -->
+git pull
